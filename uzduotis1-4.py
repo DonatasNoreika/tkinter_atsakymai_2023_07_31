@@ -26,7 +26,7 @@ def atkurti():
 
 
 def iseiti():
-    langas.destroy()
+    exit()
 
 
 # Grafiniai objektai
